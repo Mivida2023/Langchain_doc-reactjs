@@ -1,0 +1,8 @@
+langchain 
+langchain-core 
+langchain-groq
+langchain-community
+Flask 
+pymongo 
+flask-cors
+python-dotenv
