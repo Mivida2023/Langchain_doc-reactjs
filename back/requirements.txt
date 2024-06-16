@@ -6,3 +6,4 @@ Flask
 pymongo 
 flask-cors
 python-dotenv
+werkzeug
